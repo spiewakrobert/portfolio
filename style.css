@@ -49,6 +49,10 @@ body
 	float:left;
 	text-align: center;
 }
+.tile1:hover
+{
+	background-color: #2084c2;
+}
 .tile2
 {
 	margin:10px;
@@ -58,6 +62,10 @@ body
 	float:left;
 	text-align: center;
 }
+.tile2:hover
+{
+	background-color: #555555;
+}
 .tile3
 {
 	margin:10px;
@@ -66,6 +74,10 @@ body
 	background-color: #7FFF00;
 	float:left;
 	text-align: center;
+}
+.tile3:hover
+{
+	background-color: #6eee00;
 }
 .tile4
 {
@@ -78,17 +90,18 @@ body
 	padding: 30px;
 	line-height: 150%;
 
-
 }
 .tile5
 {	
 	margin:10px;
-	width:480px;
-	height:304px;
-	background-color: #ffff00	;
-	text-align: center;
+	width:420px;
+	height:244px;
+	background-color: #D2691E	;
+	text-align: justify;
+	padding: 30px;
 
 }
+
 .yt
 {	
 	margin:10px;
@@ -97,6 +110,10 @@ body
 	background-color: #ff0000	;
 	float:left;
 
+}
+.yt:hover
+{
+	background-color: #ee0000;
 }
 .fb
 {	
@@ -107,6 +124,10 @@ body
 	float:left;
 
 }
+.fb:hover
+{
+	background-color: #2a4887;
+}
 .gplus
 {	
 	margin:10px;
@@ -115,6 +136,10 @@ body
 	background-color: #d34836	;
 	float:left;
 
+}
+.gplus:hover
+{
+	background-color: #c23725;
 }
 .tw
 {	
@@ -125,10 +150,22 @@ body
 	float:left;
 
 }
+.tw:hover
+{
+	background-color: #00abdd;
+}
 
+a.tilelink
+{
+	color: #ffffff;
+	text-decoration: none;
+	display: block;
+	width:230px;
+	height:142px;
+}
+a.tilelinkhtml5
+{
+	color: #ffffff;
+	text-decoration: none;
 
-
-
-
-
-
+}
