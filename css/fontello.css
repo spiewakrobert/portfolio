@@ -54,7 +54,8 @@
   /* Uncomment for 3D effect */
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
- 
+.icon-twitter-squared:before { content: '\f304'; font-size: 76px; margin-top: 35px ; } /* '' */
+.icon-facebook-squared:before { content: '\f308'; font-size: 76px; margin-top: 35px ; } /* '' */
 .icon-mail:before { content: '\e801'; } /* '' */
 .icon-user:before { content: '\e800'; font-size: 76px; margin-top: 20px ; } /* '' */
 .icon-gplus-squared:before { content: '\f0d4'; font-size: 76px; margin-top: 35px ; } /* '' */
@@ -63,5 +64,3 @@
 .icon-youtube-squared:before { content: '\f166'; font-size: 76px; margin-top: 35px; } /* '' */
 .icon-graduation-cap:before { content: '\f19d'; font-size: 76px; margin-top: 20px ; } /* '' */
 .icon-envelope-open:before { content: '\f2b6'; font-size: 76px; margin-top: 35px ; } /* '' */
-.icon-twitter-squared:before { content: '\f304'; font-size: 76px; margin-top: 35px ; } /* '' */
-.icon-facebook-squared:before { content: '\f308'; font-size: 76px; margin-top: 35px ; } /* '' */
